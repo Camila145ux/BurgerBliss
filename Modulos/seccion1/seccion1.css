@@ -1,0 +1,39 @@
+.seccion1 {
+    padding: 18px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.texto1 {
+    color: rgb(111, 114, 115);
+    padding: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 25px;
+    
+
+}
+
+.titulo {
+    color: rgb(44, 42, 42);
+    padding: 25px;
+}
+
+.descripcion {
+    color: rgb(104, 168, 240);
+    font-size: monospace;
+    padding: 25px;
+}
+
+.btn1 {
+    width:100%;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 28px;
+
+    font-size: 16px;
+    color: rgb(74, 71, 71);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
